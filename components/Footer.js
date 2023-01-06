@@ -16,7 +16,7 @@ function Footer() {
         <h5 className="font-bold">COMMUNITY</h5>
         <p>Accessibility</p>
         <p>This is not a real site</p>
-        <p>It's a pretty amazing clone though</p>
+        <p>It is a pretty amazing clone though</p>
         <p>Referrals accepted</p>
         <p>Grimmyxiii</p>
       </div>
@@ -35,7 +35,7 @@ function Footer() {
         <p>Help Centre</p>
         <p>Trust & Safety</p>
         <p>Say HI to Finley and Jesse</p>
-        <p>They're the 2 best dogs in the world</p>
+        <p>They are the 2 best dogs in the world</p>
         <p>And they love to cuddle</p>
       </div>
     </div>
