@@ -5,7 +5,6 @@ import {
   GlobeAltIcon,
   Bars3Icon,
   UserCircleIcon,
-  UsersIcon,
 } from "@heroicons/react/24/solid"
 
 function Header() {
